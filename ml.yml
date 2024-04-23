@@ -1,0 +1,15 @@
+ name: ml
+ dependencies:
+   - python
+   - numpy
+   - matplotlib
+   - scipy
+   - scikit-learn
+   - jupyter
+   - ipython
+   - pandas
+   - pytables
+   - seaborn
+   - graphviz
+   - python-graphviz
+   - imageio
